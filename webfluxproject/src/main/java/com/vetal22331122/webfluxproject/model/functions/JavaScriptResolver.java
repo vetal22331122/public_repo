@@ -18,11 +18,7 @@ public class JavaScriptResolver {
     public Object resolveIntArgFunction(String input, int arg) throws ScriptException, NoSuchMethodException, IllegalArgumentException {
         engine.eval(input);
         Invocable invocable = (Invocable) engine;
-        try {
-            return invocable.invokeFunction(getFuncName(input), arg);
-        } catch (IllegalArgumentException e) {
-            throw new IllegalArgumentException(e.getMessage());
-        }
+        return invocable.invokeFunction(getFuncName(input), arg);
     }
 
     private static String getFuncName(String input) throws IllegalArgumentException {
@@ -31,6 +27,7 @@ public class JavaScriptResolver {
         if (matcher.find()) {
             return matcher.group(2).replaceAll("\\s", "");
         } else {
+            System.out.println("-------------------This is JSR2---------------");
             throw new IllegalArgumentException("Неподдерживаемый формат ввода");
         }
     }
