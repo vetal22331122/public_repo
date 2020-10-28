@@ -15,9 +15,10 @@ public class JavaScriptResolver {
     public JavaScriptResolver() {
     }
 
-    public Object resolveIntArgFunction(String input, int arg) throws ScriptException, NoSuchMethodException, IllegalArgumentException {
+    public synchronized Object resolveIntArgFunction(String input, int arg) throws ScriptException, NoSuchMethodException, IllegalArgumentException {
         engine.eval(input);
         Invocable invocable = (Invocable) engine;
+
         return invocable.invokeFunction(getFuncName(input), arg);
     }
 
@@ -27,7 +28,6 @@ public class JavaScriptResolver {
         if (matcher.find()) {
             return matcher.group(2).replaceAll("\\s", "");
         } else {
-            System.out.println("-------------------This is JSR2---------------");
             throw new IllegalArgumentException("Неподдерживаемый формат ввода");
         }
     }

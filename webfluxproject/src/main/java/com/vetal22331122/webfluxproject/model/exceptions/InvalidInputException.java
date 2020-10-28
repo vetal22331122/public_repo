@@ -4,8 +4,7 @@ import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.ResponseStatus;
 
-@ResponseStatus(code = HttpStatus.FORBIDDEN, reason = "Some parameters are invalid")
-@ResponseBody
+//@ResponseStatus(code = HttpStatus.FORBIDDEN, reason = "Some parameters are invalid")
 public class InvalidInputException extends RuntimeException {
     public InvalidInputException(String message) {
         super(message);

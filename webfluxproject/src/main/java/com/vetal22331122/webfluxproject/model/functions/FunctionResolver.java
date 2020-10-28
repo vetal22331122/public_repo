@@ -1,7 +1,6 @@
 package com.vetal22331122.webfluxproject.model.functions;
 
 import com.vetal22331122.webfluxproject.model.entities.Answer;
-import com.vetal22331122.webfluxproject.model.exceptions.InvalidInputException;
 import reactor.core.publisher.Flux;
 
 import javax.script.ScriptException;
