@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7457d19e-13ad-4b3a-92f7-9338e578582d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/21420-reka_kamenistaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/22353-doroga_les_arka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/24001-sneg_zima_derevnya_rassvet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/41274-goryi_nebo_otrajenie_ozero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/42506-goryi_otrajenie_reka_nebo (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/42506-goryi_otrajenie_reka_nebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/46390-rassvet_basseyn_illyuziya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dst/52486-kamni_reka_voda_nebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/21420-reka_kamenistaya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/22353-doroga_les_arka.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/24001-sneg_zima_derevnya_rassvet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/41274-goryi_nebo_otrajenie_ozero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/42506-goryi_otrajenie_reka_nebo (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/42506-goryi_otrajenie_reka_nebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/46390-rassvet_basseyn_illyuziya.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/dstScaler/52486-kamni_reka_voda_nebo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ImageResizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ImageResizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ImageScaler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ImageScaler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/LogMode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/java/LogMode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cVQb8LIzBds2BwSbEypGuoVHKZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564647381235" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Transactions" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitSkillbox\java_basics\11_Multithreading\ImageResizer\data\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ImageResizer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7457d19e-13ad-4b3a-92f7-9338e578582d" name="Default Changelist" comment="" />
+      <created>1564644898262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564644898262</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="187" key="FileChooserDialogImpl" timestamp="1599508559952">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="187" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1599508559952" />
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom" timestamp="1603909143448">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1603909143448" />
+    <state width="1556" height="218" key="GridCell.Tab.0.center" timestamp="1603909143448">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1603909143448" />
+    <state width="1556" height="218" key="GridCell.Tab.0.left" timestamp="1603909143447">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1603909143447" />
+    <state width="1556" height="218" key="GridCell.Tab.0.right" timestamp="1603909143448">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1556" height="218" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1603909143448" />
+    <state x="616" y="210" key="chooseDestDirectoryDialog" timestamp="1603909205912">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="616" y="210" key="chooseDestDirectoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1603909205912" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
