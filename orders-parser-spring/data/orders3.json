@@ -1,0 +1,10 @@
+{
+  "orders": [
+    {
+      "orderId": 16,
+      "amount": 158,
+      "currency": "USD",
+      "comment": "оплата заказа"
+    }
+  ]
+}

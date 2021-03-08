@@ -1,0 +1,94 @@
+{
+  "orders": [
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": 158,
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    },
+    {
+      "orderId": 10,
+      "amount": "djj",
+      "currency": "USD",
+      "comment": "оплата заказа"
+    }
+  ]
+}
