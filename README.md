@@ -1,6 +1,8 @@
 # public_repo
 Repository for some of my test case projects
 
+orders-parser-spring - concurrent parsing orders from csv and json sources, output to stdout 
+
 WebFluxProject - first try of reactive web technology Spring WebFlux. Application receives 3 parameters - number of iterations, and two javascript functions. 
 The results obtained are returned to the client either as calculations are completed, or results are leveled and presented in an ordered form (including number of results calculated in advance for "faster" function).
 
