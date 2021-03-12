@@ -1,0 +1,4 @@
+org\example\ali\Product.class
+org\example\ali\CsvOutputFormat.class
+org\example\ali\Main.class
+org\example\ali\ProductsParser.class

@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+org.example.ali.Main-Class: org.example.ali.Main
+
